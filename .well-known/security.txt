@@ -1,0 +1,4 @@
+Contact: mailto:info@lukespademan.com
+Encryption: https://lukespademan.com/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://lspade.xyz/.well-known/security.txt
