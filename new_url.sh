@@ -72,5 +72,5 @@ else
 	echo -e "$short_uri\t\t$dest_url" >> $redirects_file
 fi
 
-echo "$short_uri $dest_url"
+echo "$short_uri"
 
