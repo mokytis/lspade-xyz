@@ -9,7 +9,7 @@ email: info@lukespademan.com
 keybase: lukespademan
 gitlab: mokytis
 github: mokytis
-twitter: mokytis_   ('mokytis' was already taken)
+twitter: mokytis_   // 'mokytis' was already taken :/
 reddit: mokytis
 instagram: mokytis
 

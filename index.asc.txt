@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Hey, My name is Luke.
+
+```bash
+alias mokytis=luke
+```
+
+pgp: 1CB6 795D DE37 4C7D 115C  17F7 0F40 BC82 FD32 72E3
+email: info@lukespademan.com
+keybase: lukespademan
+gitlab: mokytis
+github: mokytis
+twitter: mokytis_   // 'mokytis' was already taken :/
+reddit: mokytis
+instagram: mokytis
+
+I own some domains on the internet. The main ones I use are as follows:
+
+weblog: lukespademan.com
+personal URL shortener: lspade.xyz
+random projects: *.{lukespademan.com,lspade.xyz}
+
+
+Correct as of Mon 25 May 20:45:13 UTC 2020
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1fEm7H14HdOq1QnxiSq4MZR0TAQFAl7MLlkACgkQiSq4MZR0
+TAR6mw//Zytsdzyu0q1s58CR5OaTdmXKpGdCypXcZUbQtoYJrat2LaztZplHCx6o
+l1OLETqC3yXaegyYl23UQYDlX/s9M++LKrluVTisG6KENP/JUv/0aLxLwKY8FsSs
+rt0KXRY1pEJSEuhfjF8agxWkemXKTPzh534M7vIv6mGgh7cmNjbF1UTPMn07u8kM
+XpG/6crZMOpUsrRruaE0lqtEcYn09SatUcxIekoKzZMk1duQXTEJGMY/3mEKifQd
+cWrKjlgy2j4phFJIwStOL9VpqFGkxmP4UpSkit4oWTGTKXnpvyctEczchMH9Ceko
+57unyLJzCGkHr/TRjQtuH9Hslq9TEu98l8KaVVerQX9CpuSkLAOqEoq7uOOyGAzC
+qydbPayxxOplDO9EeNeX/vYAIUZPcFYSW/FXZYzkWPNgMrfv/AI8eaVIGMhifPU3
+Qd4z1ZFd9yyEKK4zthCrTavymi4Pba3u6sTEzxKGEFfahPlVG+qtguA5j5hh+/8/
+QuOSPpyWToWL2fOK+l5A2///IDhk626XbAGuGnBBHxUbs9i94AvsQEvBg+lzw0I1
+LHWqxgyhqpGvGq4ZU2tQOHic9EWLdC5oMoqxmFh1KebNFcxLMLtUwfP/7pgfUL1X
+qLWuQTO4WN6uTz0isy6ssV78bMLggCruKWMG1S7fiq6A/9evd8w=
+=iIQU
+-----END PGP SIGNATURE-----
