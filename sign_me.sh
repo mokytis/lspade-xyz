@@ -14,6 +14,7 @@ If no match is found it will be assumed that there is no encryption on the Wi-Fi
   -o --output   file to store output
   -d --date     custom date to append to file
   -h --help     show this help
+  --html        add html wrapper
 EOF
 }
 
@@ -47,6 +48,12 @@ case $key in
 		shift # past argument
 		shift # past value
 		;;
+	--html)
+        HTML="YES";
+        HTML_TITLE="$2"
+        shift
+        shift
+		;;
 	-h|--help)
 		exit_error
 		;;
@@ -75,6 +82,7 @@ fi
 TMP_FILE=$(mktemp)
 
 # Create the tmp file from either stdin or the given file
+
 while read line
 do
   echo "$line" >> $TMP_FILE
@@ -82,7 +90,25 @@ done < "${INPUT_FILE:-/dev/stdin}"
 echo -e "\n\nCorrect as of ${DATE:-$(date --utc)}" >> $TMP_FILE
 
 
-gpg --clear-sign --output ${OUTPUT_FILE:-$INPUT_FILE.asc} $TMP_FILE
+OUTPUT_FILE=${OUTPUT_FILE:-$INPUT_FILE.asc}
+gpg --clear-sign --output $OUTPUT_FILE $TMP_FILE
+
+if [ "$HTML" == "YES" ]; then
+    cat << EOF > $OUTPUT_FILE
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>$HTML_TITLE</title>
+</head>
+<body>
+<pre>
+$(cat $OUTPUT_FILE)
+</pre>
+</body>
+</html>
+EOF
+fi
 
 rm $TMP_FILE
 
