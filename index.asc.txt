@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Hey, My name is Luke.
+hey, my name is luke.
 
 ```bash
 alias mokytis=luke
@@ -16,27 +16,29 @@ twitter: mokytis_   // 'mokytis' was already taken :/
 reddit: mokytis
 instagram: mokytis
 
-I own some domains on the internet. The main ones I use are as follows:
+i own some domains on the internet. the main ones i use are as follows:
 
 weblog: lukespademan.com
 personal URL shortener: lspade.xyz
 random projects: *.{lukespademan.com,lspade.xyz}
 
+you can verify this site: `curl -LSs https://lspade.xyz | gpg -d`
 
-Correct as of Mon 25 May 20:45:13 UTC 2020
+
+Correct as of Sat 11 Jul 11:16:50 UTC 2020
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE1fEm7H14HdOq1QnxiSq4MZR0TAQFAl7MLlkACgkQiSq4MZR0
-TAR6mw//Zytsdzyu0q1s58CR5OaTdmXKpGdCypXcZUbQtoYJrat2LaztZplHCx6o
-l1OLETqC3yXaegyYl23UQYDlX/s9M++LKrluVTisG6KENP/JUv/0aLxLwKY8FsSs
-rt0KXRY1pEJSEuhfjF8agxWkemXKTPzh534M7vIv6mGgh7cmNjbF1UTPMn07u8kM
-XpG/6crZMOpUsrRruaE0lqtEcYn09SatUcxIekoKzZMk1duQXTEJGMY/3mEKifQd
-cWrKjlgy2j4phFJIwStOL9VpqFGkxmP4UpSkit4oWTGTKXnpvyctEczchMH9Ceko
-57unyLJzCGkHr/TRjQtuH9Hslq9TEu98l8KaVVerQX9CpuSkLAOqEoq7uOOyGAzC
-qydbPayxxOplDO9EeNeX/vYAIUZPcFYSW/FXZYzkWPNgMrfv/AI8eaVIGMhifPU3
-Qd4z1ZFd9yyEKK4zthCrTavymi4Pba3u6sTEzxKGEFfahPlVG+qtguA5j5hh+/8/
-QuOSPpyWToWL2fOK+l5A2///IDhk626XbAGuGnBBHxUbs9i94AvsQEvBg+lzw0I1
-LHWqxgyhqpGvGq4ZU2tQOHic9EWLdC5oMoqxmFh1KebNFcxLMLtUwfP/7pgfUL1X
-qLWuQTO4WN6uTz0isy6ssV78bMLggCruKWMG1S7fiq6A/9evd8w=
-=iIQU
+iQIzBAEBCgAdFiEE1fEm7H14HdOq1QnxiSq4MZR0TAQFAl8Jn6IACgkQiSq4MZR0
+TAQxgQ/9Ebn5u0du1KWB/IzCLw8SB5SCgaCRabNzXQaAvA71YhqnobWtlG+D5UDR
+HV30NIPFeWPoBlAHrCg8/cNXpTpPw8GsoNtr2siEz1RhhbYvX6LqlmJVTxLw4jym
+6IxMXv5pfeWhLpbyd6EeP00TGYuDziGOA6wks+Jum610957Civy+S10sRZf2KTQx
+1JiG5spmIf9zmknhl8PZHRkCz5eq8SrJ3CCLK1jTXkNrHOjTR7dZP59d/d26AhUw
+ChCl/aretK3wxx4tXlRx1uuP99WsAfH7QkUMToyKgJf6xE+2scFhUQpPpD4e3F+r
+mmtY5TkzNKkwBKiKRxEGHREuJsQiSC6nOZwwdO7hVVc7sg/+bmnav0VLp43dikpz
+vwdNPCMZbAB6EuEMG4xlzx5J7cljcr8RVLmBOLvF/Dlo+sGLbWUoibz/Cx8jlx/D
+Fz9Sx3K/1CU8S6cRd837XfEG8esmc+QF2UHGcd/fUIk+K0HM4Gks5qsmT3fg3Nvj
+ul3XR2TbC7YRkhKb9/erY96KpCweqHl8lkRufoVtEwiHjlbc8URPRkId5bB16gQ+
+3/ubv5bX8v2iaYc4crT2nJU28c6qiH+RcMpxLSyIcufoYaXNtx1t9a6P+64vRnEw
+QxdpE9rChnySOOaBaJL9B49p7W2FDujqVBQp5WIqQaS3E+kXHgM=
+=+Lqe
 -----END PGP SIGNATURE-----

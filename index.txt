@@ -1,4 +1,4 @@
-Hey, My name is Luke.
+hey, my name is luke.
 
 ```bash
 alias mokytis=luke
@@ -13,8 +13,10 @@ twitter: mokytis_   // 'mokytis' was already taken :/
 reddit: mokytis
 instagram: mokytis
 
-I own some domains on the internet. The main ones I use are as follows:
+i own some domains on the internet. the main ones i use are as follows:
 
 weblog: lukespademan.com
 personal URL shortener: lspade.xyz
 random projects: *.{lukespademan.com,lspade.xyz}
+
+you can verify this site: `curl -LSs https://lspade.xyz | gpg -d`
